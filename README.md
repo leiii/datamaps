@@ -30,6 +30,7 @@ Usage
 -----
 
 The basic idea is that if you have a file of points like this:
+Note that the order is lat,lon
 
     40.711017,-74.011017
     40.710933,-74.011250
